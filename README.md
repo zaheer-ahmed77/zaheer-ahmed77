@@ -20,6 +20,10 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 ---
 
@@ -35,9 +39,8 @@
 
 
 ### 💻 Top Contributed Repositories:
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zaheer-ahmed77&repo=repository-1&theme=radical)](https://github.com/zaheer-ahmed/repository-1)
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zaheer-ahmed77&repo=repository-2&theme=radical)](https://github.com/zaheer-ahmed/repository-2)
+![](https://nirzak-streak-stats.vercel.app/?user=Zaheer-Ahmed77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaheer-Ahmed77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
@@ -45,7 +48,7 @@
 ### 📬 Contact Me:
 - Email: za5528788@gmail.com
 - LinkedIn: [Zaheer Ahmed](www.linkedin.com/in/zaheer-ahmed77)
-- Portfolio: [Coming Soon](#)
+- Portfolio: [https://ZaheerAhmed.xyz](https://ZaheerAhmed.xyz)
 
 ---
 
