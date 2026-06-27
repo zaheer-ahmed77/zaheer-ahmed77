@@ -32,10 +32,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=zaheer-ahmed77&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 
 ### 💻 Top Contributed Repositories:
@@ -48,7 +44,7 @@
 ### 📬 Contact Me:
 - Email: za5528788@gmail.com
 - LinkedIn: [Zaheer Ahmed](www.linkedin.com/in/zaheer-ahmed77)
-- Portfolio: [https://ZaheerAhmed.xyz](https://ZaheerAhmed.xyz)
+- Portfolio: [https://Zaheer.tech](https://Zaheer.tech)
 
 ---
 
